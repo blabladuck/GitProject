@@ -2,4 +2,6 @@
     <string name="app_name">HelloGit</string>
     <string name="str1">HelloGit Branch A</string>
     <string name="str2">HelloGit Branch A</string>
+    <string name="strb">HelloGit branch B</string>
+    <string name="strb2">HelloGit branch B2</string>
 </resources>
